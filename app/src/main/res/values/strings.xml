@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Examen2IJUR</string>
+    <string name="app_name">Mi Aplicación</string>
+
+    <string name="tvwB">Bienvenid@</string>
+    <string name="ttName">Nombre de Usuario</string>
+    <string name="ttPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar sesión</string>
+
+
 </resources>
