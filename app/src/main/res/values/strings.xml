@@ -6,5 +6,8 @@
     <string name="ttPassword">Contraseña</string>
     <string name="btnLogin">Iniciar sesión</string>
 
+    <string name="tvw_profile_title">USUARIO</string>
+    <string name="tvw_phone_label">TELEFONO: 5536271829</string>
+
 
 </resources>
